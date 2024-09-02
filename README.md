@@ -1,3 +1,9 @@
+# seeplusplus
+
+Just playing around with C++ graphics.
+
+This is based on the tutorial at https://youtu.be/t0z3RojiKFg
+
 # CMake SFML Project Template
 
 This repository template should allow for a fast and hassle-free kick start of your next SFML project using CMake.
